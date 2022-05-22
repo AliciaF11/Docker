@@ -24,3 +24,4 @@ Pour cela, on tappe la commande : docker-compose build
 
 ## Exécution Docker-Compose
 docker-compose up
+

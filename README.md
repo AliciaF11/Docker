@@ -10,3 +10,4 @@ La commande suivante permet d'installer docker: sudo apt-get install docker-ce
 Pour cela: sudo curl -L https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 On vérifie que la nouvelle version est installée: 
 ![image](version_docker.png)
+![image](docker1.png)

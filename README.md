@@ -18,6 +18,25 @@ On vérifie que la nouvelle version est installée:
 ![image](infrastructure_3.png)
 ![image](infrastructure_4.png)
 
+## Contenu des fichiers
+
+### Client
+#### client.py
+![image](client_py.png)
+#### Dockerfile
+![image](Dockerfile_client.png)
+
+### Server
+#### server.py
+#### DockerFile
+#### index.html
+
+### Firewall
+#### clean.sh
+#### firewall.sh
+#### Dockerfile
+### Docker-compose
+#### docker-compose.yml
 
 ## Construire Docker-Compose 
 Pour cela, on tappe la commande : docker-compose build

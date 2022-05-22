@@ -13,10 +13,10 @@ On vérifie que la nouvelle version est installée:
 
 ## Infrastructure mis en place
 
-![image](infrastructure1.png)
-![image](infrastructure2.png)
-![image](infrastructure3.png)
-![image](infrastructure4.png)
+![image](infrastructure_1.png)
+![image](infrastructure_2.png)
+![image](infrastructure_3.png)
+![image](infrastructure_4.png)
 
 
 ## Construire Docker-Compose 

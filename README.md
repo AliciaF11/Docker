@@ -28,8 +28,11 @@ On vérifie que la nouvelle version est installée:
 
 ### Server
 #### server.py
+![image](server_py.png)
 #### DockerFile
+![image](Dockerfile_server.png)
 #### index.html
+![image](index_html.png)
 
 ### Firewall
 #### clean.sh

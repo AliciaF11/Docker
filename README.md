@@ -38,6 +38,8 @@ On vérifie que la nouvelle version est installée:
 #### clean.sh
 #### firewall.sh
 #### Dockerfile
+![image](Dockerfile_firewall.png)
+
 ### Docker-compose
 #### docker-compose.yml
 

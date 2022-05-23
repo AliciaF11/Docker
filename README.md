@@ -36,7 +36,9 @@ On vérifie que la nouvelle version est installée:
 
 ### Firewall
 #### clean.sh
+![image](clean_sh.png)
 #### firewall.sh
+![image](firewall_sh.png)
 #### Dockerfile
 ![image](Dockerfile_firewall.png)
 

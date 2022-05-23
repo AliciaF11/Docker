@@ -43,9 +43,10 @@ On vérifie que la nouvelle version est installée:
 ### Docker-compose
 #### docker-compose.yml
 
-## Construire Docker-Compose 
-Pour cela, on tappe la commande : docker-compose build
+## Construction de Docker-compose 
+Pour cela, on exécute la commande : $ docker-compose build
 
-## Exécution Docker-Compose
-docker-compose up
+
+## Lancement de Docker-Compose
+On exécute la commande suivante: $ docker-compose up
 

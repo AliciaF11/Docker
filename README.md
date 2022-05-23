@@ -1,5 +1,5 @@
 # Projet Docker
-## Objectif du projet
+## But du projet
 Ce projet consiste à mettre en place une infrastructure composée d'un firewall, un client et un serveur. Ils seront chacun dans un container docker. Pour faciliter la communication entre les trois nous avons utilisé Docker Compose.
 
 ## Installation Docker
@@ -11,14 +11,14 @@ Pour cela : curl -L https://github.com/docker/compose/releases/download/v2.0.1/d
 On vérifie que la nouvelle version est installée: 
 ![image](version_docker1.png)
 
-## Infrastructure mis en place
+## Infrastructure mise en place
 
 ![image](infrastructure_11.png)
 ![image](infrastructure_2.png)
 ![image](infrastructure_3.png)
 ![image](infrastructure_4.png)
 
-## Contenu des fichiers
+## Fichiers
 
 ### Client
 #### client.py

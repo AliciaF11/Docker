@@ -47,9 +47,9 @@ On vérifie que la nouvelle version est installée:
 ![image](docker_compose_yml.png)
 
 ## Construction de Docker-compose 
-Pour cela, on exécute la commande : $ docker-compose build  
+Pour cela, on exécute la commande :  docker-compose build  
 En exécutant cette commande, voici l'erreur qui s'affiche:
 ![image](erreur.png)
 
 ## Lancement de Docker-Compose
-On exécute la commande suivante: $ docker-compose up
+On exécute la commande suivante:  docker-compose up

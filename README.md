@@ -42,6 +42,7 @@ On vérifie que la nouvelle version est installée:
 
 ### Docker-compose
 #### docker-compose.yml
+![image](docker_compose_yml.png)
 
 ## Construction de Docker-compose 
 Pour cela, on exécute la commande : $ docker-compose build

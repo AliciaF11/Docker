@@ -50,6 +50,7 @@ On vérifie que la nouvelle version est installée:
 Pour cela, on exécute la commande :  docker-compose build  
 En exécutant cette commande, voici l'erreur qui s'affiche:
 ![image](erreur.png)
+Mon docker-compose n'est donc pas fonctionnel.
 
 ## Lancement de Docker-Compose
 On exécute la commande suivante:  docker-compose up

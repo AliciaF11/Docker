@@ -49,4 +49,3 @@ Pour cela, on exécute la commande : $ docker-compose build
 
 ## Lancement de Docker-Compose
 On exécute la commande suivante: $ docker-compose up
-

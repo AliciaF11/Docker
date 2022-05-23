@@ -13,7 +13,7 @@ On vérifie que la nouvelle version est installée:
 
 ## Infrastructure mis en place
 
-![image](infrastructure_1.png)
+![image](infrastructure_11.png)
 ![image](infrastructure_2.png)
 ![image](infrastructure_3.png)
 ![image](infrastructure_4.png)
@@ -22,7 +22,7 @@ On vérifie que la nouvelle version est installée:
 
 ### Client
 #### client.py
-![image](client_py.png)
+![image](client1_py.png)
 #### Dockerfile
 ![image](Dockerfile_client.png)
 
